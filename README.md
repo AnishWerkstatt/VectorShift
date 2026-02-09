@@ -1,4 +1,4 @@
-# VectorShift Pipeline Builder - Technical Assessment
+# VectorShift Pipeline Builder
 
 This application is a visual pipeline builder with drag-and-drop functionality for creating node-based workflows. It features a React frontend with ReactFlow and a FastAPI backend for pipeline analysis.
 
